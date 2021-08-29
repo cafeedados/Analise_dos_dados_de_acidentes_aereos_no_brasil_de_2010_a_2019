@@ -14,3 +14,4 @@ Além do objetivo principal do trabalho que foi supracitado, também trataremos 
 - *CENIPA:* https://www2.fab.mil.br/cenipa/
 - *Regulamento Brasileiro da Aviação Civi:* https://www.anac.gov.br/assuntos/legislacao/legislacao-1/rbha-e-rbac/rbac/rbac-01-emd-03 
 - *Dados Abertos CENIPA - Ocorrências na Aviação Civil Brasileira:* https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira
+- *Base de Dados Aeronaves - Regristro Aeronáutico Brasileiro(RAB):* https://www.gov.br/anac/pt-br/sistemas/rab/relatorios-estatisticos
