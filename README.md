@@ -1,5 +1,5 @@
-# TCC - Análise das Ocorrências Aeronáuticas na Aviação Civil Brasileira de 2010 á 2020
- Trabalho de Conclusão de Curso Pedro Lourenço 
+# Análise das Ocorrências Aeronáuticas na Aviação Civil Brasileira de 2010 á 2020
+ Trabalho de Conclusão da atividade extensionista
 
 ## Objetivo
 O objetivo do projeto é realizar a análise dos dados públicos das ocorrências aeronáuticas da aviação brasileira de 2010 á 2020. E o resultado dessas análises gerar insides sobre as ocorrências por região, por tipo de aviação, aeronave, por aeródromo e etc. 
