@@ -1,8 +1,8 @@
-# Análise das Ocorrências Aeronáuticas na Aviação Civil Brasileira de 2010 á 2020
+# Análise das Ocorrências Aeronáuticas na Aviação Civil Brasileira de 2010 á 2019
  Trabalho de Conclusão da atividade extensionista
 
 ## Objetivo
-O objetivo do projeto é realizar a análise dos dados públicos das ocorrências aeronáuticas da aviação brasileira de 2010 á 2020. E o resultado dessas análises gerar insides sobre as ocorrências por região, por tipo de aviação, aeronave, por aeródromo e etc. 
+O objetivo do projeto é realizar a análise dos dados públicos das ocorrências aeronáuticas da aviação brasileira de 2010 á 2019. E o resultado dessas análises gerar insides sobre as ocorrências por região, por tipo de aviação, aeronave, por aeródromo e etc. 
 A fim também de mapear as recomendações de segurança determinadas pelo orgão do CENIPA (Centro de Investigação e Prevenção de Acidentes Aeronáuticos).
 
 Além do objetivo principal do trabalho que foi supracitado, também trataremos sobre o que é aviação civil, suas divisões, principais regulamentações e a importância da investigação de acidentes e incidentes aéreos para a segurança da aviação brasileira e mundial. 
